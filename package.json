@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "@react-three/drei": "^9.108.1",
+    "@react-three/fiber": "^8.16.8",
+    "@types/three": "^0.166.0",
+    "firebase": "^10.12.3",
+    "gsap": "^3.12.5",
+    "three": "^0.166.1",
+    "three-gltf-loader": "^1.111.0",
+    "threejs-fbxloader": "^0.0.1"
+  }
+}
